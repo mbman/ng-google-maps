@@ -1,0 +1,27 @@
+{
+  "name": "angular-google-maps",
+  "main": "./dist/angular-google-maps.js",
+  "dependencies": {
+  },
+  "ignore": [
+    "*.json",
+    ".gitignore",
+    "travis.yml",
+    "*.html",
+    "package.js",
+    "*.markdown",
+    "example",
+    "src",
+    "grunt",
+    "website_libs",
+    "scripts",
+    "spec/coffee/directives",
+    "spec/coffee/providers",
+    "spec/coffee/usage",
+    "tmp",
+    "dist/coverage/",
+    "dist/architecture/"
+  ],
+  "devDependencies": {
+  }
+}
